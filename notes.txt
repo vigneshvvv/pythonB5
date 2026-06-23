@@ -1,0 +1,7 @@
+int - numbers
+String - ""
+boolean - True/False
+float - 
+
+== - Equal To 
+!= - Not Equals to 
